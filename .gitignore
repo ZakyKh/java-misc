@@ -1,0 +1,4 @@
+*.class
+
+# input file if cmd for stdin is a hassle
+test.txt
